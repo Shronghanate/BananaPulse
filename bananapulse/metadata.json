@@ -1,0 +1,8 @@
+
+{
+  "name": "BananaPulse",
+  "description": "An AI-powered banana freshness detector that estimates shelf life and provides storage tips using computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
